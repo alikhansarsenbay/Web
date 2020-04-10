@@ -1,0 +1,48 @@
+import { Product } from "./product";
+
+export const Collection: Product[] = [
+    {
+        id: 21,
+        name: 'OBD2',
+        price: 15042.33,
+        description: 'OBD2 автомобильный сканер, считыватель данных в режиме реального времени, код двигателя, диагностический инструмент ANCEL AD310',
+        rating: 0,
+        img: '../assets/images/phones/obd2_',
+        url: 'https://aliexpress.ru/item/4000146085201.html?spm=a2g0v.best.6.7.9b6a5xFw5xFwH9&scm=1007.17258.156310.0&pvid=a90f9b01-0853-41c6-92ae-eec131dea9d5',
+        category: 'Home Product',
+        category_id: 4,
+    },
+    {
+        id: 22,
+        name: 'OBD2',
+        price: 15042.33,
+        description: 'OBD2 автомобильный сканер, считыватель данных в режиме реального времени, код двигателя, диагностический инструмент ANCEL AD310',
+        rating: 0,
+        img: '../assets/images/phones/obd2_',
+        url: 'https://aliexpress.ru/item/4000146085201.html?spm=a2g0v.best.6.7.9b6a5xFw5xFwH9&scm=1007.17258.156310.0&pvid=a90f9b01-0853-41c6-92ae-eec131dea9d5',
+        category: 'Home Product',
+        category_id: 4,
+    },
+    {
+        id: 23,
+        name: 'OBD2',
+        price: 15042.33,
+        description: 'OBD2 автомобильный сканер, считыватель данных в режиме реального времени, код двигателя, диагностический инструмент ANCEL AD310',
+        rating: 0,
+        img: '../assets/images/phones/obd2_',
+        url: 'https://aliexpress.ru/item/4000146085201.html?spm=a2g0v.best.6.7.9b6a5xFw5xFwH9&scm=1007.17258.156310.0&pvid=a90f9b01-0853-41c6-92ae-eec131dea9d5',
+        category: 'Home Product',
+        category_id: 4,
+    },
+    {
+        id: 24,
+        name: 'OBD2',
+        price: 15042.33,
+        description: 'OBD2 автомобильный сканер, считыватель данных в режиме реального времени, код двигателя, диагностический инструмент ANCEL AD310',
+        rating: 0,
+        img: '../assets/images/phones/obd2_',
+        url: 'https://aliexpress.ru/item/4000146085201.html?spm=a2g0v.best.6.7.9b6a5xFw5xFwH9&scm=1007.17258.156310.0&pvid=a90f9b01-0853-41c6-92ae-eec131dea9d5',
+        category: 'Home Product',
+        category_id: 4,
+    },
+]
