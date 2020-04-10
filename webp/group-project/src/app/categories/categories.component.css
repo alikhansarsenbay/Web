@@ -1,0 +1,56 @@
+ul {
+    list-style: none;
+}
+
+  button {
+    background-color: #eee;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    cursor: hand;
+    font-family: Arial;
+  }
+  
+  button.delete {
+    position: relative;
+    left: 194px;
+    top: -32px;
+    background-color: gray !important;
+    color: white;
+  }
+  ul {
+    list-style: none;
+}
+.categories{
+    display: flex;
+    flex-direction: row;
+    margin-left: 240px;
+    margin-top: 32px;
+}
+.categories li{
+    margin-left: 30px;
+}
+.categories li:hover{
+    font-size: 20px;
+}
+.categories a{
+    color: rgb(2, 2, 2);
+    text-decoration: none;
+    font-weight: 500;
+}
+.btn{
+  margin-top: 10px;
+  margin-left: 5em;
+  width: 200px;
+  height: 45px;
+  border-radius: 5px;
+  background-color: rgb(2, 2, 2);
+  color: rgb(248, 248, 247);
+  border-radius: 30px;
+  font-weight: 600;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 16px;
+  line-height: 2.5;
+  border: none;
+}
